@@ -1,0 +1,6 @@
+c:\users\paweł\documents\visual studio 2015\Projects\SystemAukcyjnyApp\SystemAukcyjnyApp\bin\Debug\SystemAukcyjnyApp.exe.config
+C:\Users\Paweł\documents\visual studio 2015\Projects\SystemAukcyjnyApp\SystemAukcyjnyApp\obj\Debug\SystemAukcyjnyApp.csprojResolveAssemblyReference.cache
+C:\Users\Paweł\documents\visual studio 2015\Projects\SystemAukcyjnyApp\SystemAukcyjnyApp\bin\Debug\SystemAukcyjnyApp.exe
+C:\Users\Paweł\documents\visual studio 2015\Projects\SystemAukcyjnyApp\SystemAukcyjnyApp\bin\Debug\SystemAukcyjnyApp.pdb
+C:\Users\Paweł\documents\visual studio 2015\Projects\SystemAukcyjnyApp\SystemAukcyjnyApp\obj\Debug\SystemAukcyjnyApp.exe
+C:\Users\Paweł\documents\visual studio 2015\Projects\SystemAukcyjnyApp\SystemAukcyjnyApp\obj\Debug\SystemAukcyjnyApp.pdb
